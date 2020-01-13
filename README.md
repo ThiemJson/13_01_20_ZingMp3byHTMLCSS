@@ -19,3 +19,10 @@ Tôi không thể nào chèn được cái Icons vào trong HTML được
 như lìn vậy 
 THôi thì tôi sang bài Position rồi 
 Dùng Position: relative rồi chỉnh sửa vị trí của nó, hay phết :D 
+
+# B6
+sau một hồi tôi học mấy cái Position thì tôi cũng vỡ ra khá nhiều điều
+- relative là nó sẽ thay đổi vị trí tương đối theo vị trí gốc
+- fixed là đổi vị trí theo ví trí tương đối của window
+- absolute là đổi vị trí theo ví trí tương đổi của thằng cha đầu tiên có position relative.
+và 2 thằng ở dưới sẽ bị mất chỗ, riêng mỗi thằng relative thì không bị mât chỗ
